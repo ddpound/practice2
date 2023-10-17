@@ -1,0 +1,12 @@
+.main-header{
+    background-color: beige;
+    margin: 0 0;
+}
+
+.shopping-item{
+    width: 400px;
+    height: 300px;
+    margin: 20px auto;
+    border: brown  solid 2px;
+    border-radius: 20px;
+}
